@@ -22,10 +22,11 @@ Comandos
 Primer Hola Mundo
 
 > code
-
+```c
 #include <stdio.h>
 
 void main()
 {
     printf("Hola Cris!\n");
 }
+```
