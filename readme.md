@@ -18,3 +18,14 @@ Comandos
 
 ###### Encabezado nivel 6
 
+# Intro to C
+Primer Hola Mundo
+
+> code
+
+#include <stdio.h>
+
+void main()
+{
+    printf("Hola Cris!\n");
+}
