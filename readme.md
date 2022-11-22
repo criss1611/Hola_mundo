@@ -37,27 +37,6 @@ void main()
 ### El compilado de C hace un analisis sintatico y semantico
 
 ```c
-#include <stdio.h>
-
-int main()
-{
-    int n1,n2;
-
-    printf("\nIngrese el primer numero: ");
-    scanf("%d", &n1);
-    printf("\nIngrese el segundo numero: ");
-    scanf("%d", &n2);
-
-    if (n1>n2)
-    printf("\nEl numero mayor es el: %d", n1);
-    else
-    if (n1<n2)
-    printf("\nEl numero mayor es el: %d", n2);
-    else
-    printf("\nLos numeros son iguales");
-    return 0;
-}
-
 int
 printf
 scant
