@@ -59,12 +59,12 @@ int main()
     scanf("%d", &n2);
 
     if (n1>n2)
-    printf("\nEl numero mayor es el: %d", n1);
+       printf("\nEl numero mayor es el: %d", n1);
     else
     if (n1<n2)
-    printf("\nEl numero mayor es el: %d", n2);
+       printf("\nEl numero mayor es el: %d", n2);
     else
-    printf("\nLos numeros son iguales");
+       printf("\nLos numeros son iguales");
     return 0;
 }
 ```
