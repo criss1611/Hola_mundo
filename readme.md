@@ -49,7 +49,7 @@ void (Procedimiento)
 ```c
 #include <stdio.h>
 
-int main()
+void main()
 {
     int n1,n2;
 
@@ -65,6 +65,5 @@ int main()
        printf("\nEl numero mayor es el: %d", n2);
     else
        printf("\nLos numeros son iguales");
-    return 0;
 }
 ```
